@@ -1,4 +1,4 @@
-package module
+package gosample
 
 var Message = "hello world"
 
